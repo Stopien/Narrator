@@ -1,0 +1,28 @@
+{
+  "Roland": {
+    "owner": "413387782166282251",
+    "attacks": [
+      "Tnie Durandalem",
+      "strzela z Atelier Logic do",
+      "rzuca się z Crystal Atelier na"
+    ],
+    "defenses": [
+      "unika",
+      "paruje",
+      "blokuje atak"
+    ],
+    "oczaki": 1360
+  },
+  "Haruka": {
+    "owner": "598530138749272091",
+    "attacks": [
+      "atakuje falą",
+      "próbuje uderzyć"
+    ],
+    "defenses": [
+      "odskakuje od",
+      "broni się falą od"
+    ],
+    "oczaki": 160
+  }
+}
